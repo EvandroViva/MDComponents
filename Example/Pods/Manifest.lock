@@ -1,0 +1,14 @@
+PODS:
+  - MDComponents (0.1.0)
+
+DEPENDENCIES:
+  - MDComponents (from `../`)
+
+EXTERNAL SOURCES:
+  MDComponents:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MDComponents: 8033ce2e34e208374ec61651e165f5112cafc9d7
+
+COCOAPODS: 0.39.0

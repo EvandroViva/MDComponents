@@ -1,0 +1,6 @@
+framework module Pods_MDComponents_Tests {
+  umbrella header "Pods-MDComponents_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module MDComponents {
+  umbrella header "MDComponents-umbrella.h"
+
+  export *
+  module * { export * }
+}
